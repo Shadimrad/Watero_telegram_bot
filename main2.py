@@ -2,7 +2,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Conve
 import datetime
 import pytz
 
-TOKEN = "6788671852:AAFCqS2-5N-z9-VOgkfyv-3ESsizOIZnRd0"
+TOKEN = "Token"
 WAKEUP, TIMEZONE = range(2)
 
 
