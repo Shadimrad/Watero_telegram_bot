@@ -4,8 +4,6 @@
 
 Watero is a Telegram bot designed to remind users to stay hydrated by sending hourly reminders during their active hours. The bot interacts with users to understand their wake-up and bedtime and adjusts reminders based on their provided time zone.
 
-![Watero Logo](logo_path_here)  <!-- You can replace 'logo_path_here' with the actual path to your project logo if you have one -->
-
 ## Features
 
 - **User Onboarding**: Engage with users to set their wake-up time and bedtime.
